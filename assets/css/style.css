@@ -1,0 +1,126 @@
+.navbar-brand {
+	padding:2px;
+	background-color:#4aaaa5;
+	width:20%;
+	margin-left:110px;
+	text-align:center;
+}
+.main-bio {
+	float:right;
+	margin-right:100px;
+	margin-top:-45px;
+}
+.info {
+	width:27%;
+	background-color:white;
+	text-align:center;
+	float:right;
+	margin-right:30px;
+	height:160px;	
+}
+.contact {
+	width:;
+	margin:10px;
+}
+label {
+
+}
+.mytext {
+	width:99%;
+	height:;
+	padding:;
+	margin:1px;
+	background-color:;
+}
+.submits {
+	width:3%;
+	background-color:teal;
+	color:white;
+}
+.wrapper {
+	width:60%;
+	height:600px;
+	background-color:#ffffff;
+	margin-left:100px;
+	margin-bottom:10px;
+	border-color:#dddddd;
+}
+.nothing {
+	background-color:#4aaaa5;
+	margin-bottom:-5px;
+}
+header {
+	background-color:#ffffff;
+	margin-top:-13px;
+}
+.portfolio {
+	width:52%;
+	height:750px;
+	background-color:#ffffff;
+	margin-left:100px;
+	margin-bottom:10px;
+	border-color:#dddddd;
+}
+.hangman {
+	width:275px;
+	height:200px;
+	margin:10px;
+	position: relative;
+	float:left;
+}
+.music {
+	float:left;
+}
+hr {
+	margin:15px;
+	height:;
+	background-color:#dddddd;
+	border-style:;
+	border-bottom:;
+}
+p {
+	margin:10px;
+	margin-top:;
+	color:#777777;
+	font:Arial, Helvetica Neue,Helvetica, sans-serif;
+}
+img {
+	margin:10px;
+
+}
+form {
+	width:97%;
+	margin:10px;
+	height:;
+}
+.message {
+	padding:;
+	height:;
+}
+h1 {
+	color:#4aaaa5;
+	margin-top:5px;
+	text-align:left;
+	margin-left:10px;
+	font-family:Georgia, Times, Times New Roman, serif;
+}
+h2 {
+	color:white;
+}
+body {
+	background-color:lightgray;
+}
+input {
+	width:7%;
+	height:;
+	background-color:;
+}
+.footer, push {
+	height:4em;
+	padding:20px;
+	background-color:#666666;
+	text-align:center;
+	font-size:x-small;
+	color:white;
+	margin-bottom:100px;
+}
